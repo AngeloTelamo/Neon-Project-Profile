@@ -292,6 +292,7 @@ import {
       iconUrl: benefitIcon2,
       imageUrl: benefitImage2,
     },
+    
   ];
   
   export const socials = [
